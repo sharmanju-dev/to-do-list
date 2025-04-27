@@ -2,7 +2,7 @@
 let addItems = []; 
 let addItemElement = document.querySelector("#addItem");
 
-// Step 3: ADD function
+// Step ADD function
 function add() {
     let task = prompt("Enter a task:");
     if (task) {
